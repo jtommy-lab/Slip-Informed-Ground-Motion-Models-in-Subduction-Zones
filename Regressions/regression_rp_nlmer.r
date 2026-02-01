@@ -13,7 +13,7 @@ library(here)
 # =============================================================================
 
 ## Set TRUE if performing Rp nlmer regression with wi = 1, FALSE for wi = Slip_i/sum(Slip_i) ###
-unit_flag = TRUE
+unit_flag = FALSE
 
 ### Set TRUE if performing regional nlmer regression ###
 regional_flag = FALSE
