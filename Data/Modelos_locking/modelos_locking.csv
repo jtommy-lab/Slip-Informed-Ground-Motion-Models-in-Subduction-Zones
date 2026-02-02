@@ -1,0 +1,11 @@
+,Subduction zone,model+AF8-tag,lat+AF8-max,lat+AF8-min,lon+AF8-max,lon+AF8-min,time+AF8-max,time+AF8-min,model+AF8-author,extension,GPS,inSAR,DatabaseRegion
+0,Central+AF8-America+AF8-N,Locking+AF8-mexico,21,15,+AC0-95,+AC0-105,2016,2019.5,Maubant et al. (2022),.xyz,62,2134,CentralAmerica+ACY-Mexico
+1,Central+AF8-America+AF8-S,Nicoya+AF8-locking,11,9,+AC0-84.5,+AC0-87.75,2010,1996,Kyriakopoulos et al. (2016),.xyz,43,+AC0-999,CentralAmerica+ACY-Mexico
+2,South+AF8-America+AF8-S,Chile+AF8-locking,+AC0-18,+AC0-24.5,+AC0-69,+AC0-73,2008,2012,Li S. et al. (2015),.grd,130,+AC0-999,SouthAmerica
+3,South+AF8-America+AF8-S,Chile+AF8-locking,+AC0-30,+AC0-46,+AC0-69,+AC0-73,2009,1996,Moreno. et al. (2011),.grd,232,+AC0-999,SouthAmerica
+4,Japan+AF8-Pac,Japan+AF8-locking+AF8-epoch1,45,30,145,130,2000,1996.2,Loveless and Meade (2016),.xyz,880,+AC0-999,Japan
+5,Japan+AF8-Pac,Japan+AF8-locking+AF8-epoch2,45,30,145,130,2003.7,2000,Loveless and Meade (2016),.xyz,880,+AC0-999,Japan
+6,Japan+AF8-Pac,Japan+AF8-locking+AF8-epoch3,45,30,145,130,2007.5,2003.7,Loveless and Meade (2016),.xyz,870,+AC0-999,Japan
+7,Japan+AF8-Pac,Japan+AF8-locking+AF8-epoch4,45,30,145,130,2011.2,2007.5,Loveless and Meade (2016),.xyz,856,+AC0-999,Japan
+8,Japan+AF8-Pac,Japan+AF8-locking+AF8-epoch5,45,30,145,130,2015.9,2011.2,Loveless and Meade (2016),.xyz,839,+AC0-999,Japan
+9,Japan+AF8-Pac,lock+AF8-japan+AF8-LL2011,40,35,145,139,2011.2,2007.5,Loveless and Meade (2011),.grd,839,+AC0-999,Japan
